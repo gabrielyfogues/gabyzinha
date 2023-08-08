@@ -1,5 +1,5 @@
 .banner{
-    background-color: var(--#3b6e97);
+    background-color: var(--#000000);
     color: var(--azul);
     text-align: center;
     padding: 2.5em 2em;
@@ -23,7 +23,7 @@
 
 .banner__pesquisa::placeholder{
 color: var (--branco);
-font-family: var(--fonte-principal);
+font-family: var(lobster);
 font-weight: 400;
 text-align: center;
 background-image: url("../img/Lupa.svg");

@@ -2,18 +2,18 @@
 @import url(styles/banner.css);
 
 :root{
-    --cor-de-fundo:#EBECEE;
-    --branco:#FFFFFF;
-    --amarelo:#FECD2F;
-    --roxo:#800080;
-    --fonte-principal: "Poppins";
+    --cor-de-fundo:#f3f2ae;
+    --branco:#cf9221;
+    --amarelo:#f2f5f2;
+    --roxo:#f0ede9;
+    --fonte-principal: "chapaza";
     
 
 }
 
 body{
     background-color:var(--cor-de-fundo);
-font-family: var(--fonte-principal);
+font-family: var(--lobster);
 font-size: 16px;
 font-weight: 400;
 }
